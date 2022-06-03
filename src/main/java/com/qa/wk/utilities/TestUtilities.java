@@ -19,7 +19,7 @@ public class TestUtilities extends TestBase {
 	public static String HEAD_TITLE = "todos";
 	public static Duration IMPLICIT_WAIT = Duration.ofSeconds(20);
 	public static Duration PAGELOAD_TIME = Duration.ofSeconds(30);
-
+     //Test path needs to be change according to file location in respective system
 	public static String TESTSHEET_PATH = "C:/Users/Dipalee/eclipse-workspace/WoltersKluwerAutomation/src/main/java/com/qa/wk/testdata/TodosTestData.xlsx";
 
 	public static Workbook book;
