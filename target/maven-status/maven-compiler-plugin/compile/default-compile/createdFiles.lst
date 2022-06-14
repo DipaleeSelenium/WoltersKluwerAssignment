@@ -1,0 +1,5 @@
+com\qa\wk\base\Controller.class
+com\qa\wk\base\TestBase.class
+com\qa\wk\actions\TodosPageAction.class
+com\qa\wk\objects\TodosPageObject.class
+com\qa\wk\utilities\TestUtilities.class

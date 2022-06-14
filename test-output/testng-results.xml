@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+<testng-results ignored="0" total="9" passed="8" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-06-03T17:17:56 CEST" name="Suite" finished-at="2022-06-03T17:19:43 CEST" duration-ms="106832">
+  <suite started-at="2022-06-13T19:38:27 CEST" name="Suite" finished-at="2022-06-13T19:40:13 CEST" duration-ms="105329">
     <groups>
     </groups>
-    <test started-at="2022-06-03T17:17:56 CEST" name="Test" finished-at="2022-06-03T17:19:43 CEST" duration-ms="106832">
+    <test started-at="2022-06-13T19:38:27 CEST" name="Test" finished-at="2022-06-13T19:40:13 CEST" duration-ms="105329">
       <class name="com.qa.wk.testcases.TodosPageTestCases">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:17:56 CEST" name="setUp" finished-at="2022-06-03T17:17:59 CEST" duration-ms="2394" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:38:27 CEST" name="setUp" finished-at="2022-06-13T19:38:31 CEST" duration-ms="3232" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyTitleOfPage()[pri:1, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:17:59 CEST" name="verifyTitleOfPage" finished-at="2022-06-03T17:17:59 CEST" duration-ms="41" status="PASS">
+        <test-method signature="verifyTitleOfPage()[pri:1, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:38:31 CEST" name="verifyTitleOfPage" finished-at="2022-06-13T19:38:31 CEST" duration-ms="72" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTitleOfPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:17:59 CEST" name="tearDown" finished-at="2022-06-03T17:18:03 CEST" duration-ms="4214" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:38:31 CEST" name="tearDown" finished-at="2022-06-13T19:38:31 CEST" duration-ms="253" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:18:03 CEST" name="setUp" finished-at="2022-06-03T17:18:04 CEST" duration-ms="1257" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:38:31 CEST" name="setUp" finished-at="2022-06-13T19:38:33 CEST" duration-ms="1611" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyHeadTitleOfPage()[pri:2, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:18:04 CEST" name="verifyHeadTitleOfPage" finished-at="2022-06-03T17:18:04 CEST" duration-ms="128" status="PASS">
+        <test-method signature="verifyHeadTitleOfPage()[pri:2, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:38:33 CEST" name="verifyHeadTitleOfPage" finished-at="2022-06-13T19:38:33 CEST" duration-ms="52" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHeadTitleOfPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:18:04 CEST" name="tearDown" finished-at="2022-06-03T17:18:05 CEST" duration-ms="212" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:38:33 CEST" name="tearDown" finished-at="2022-06-13T19:38:33 CEST" duration-ms="323" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:18:05 CEST" name="setUp" finished-at="2022-06-03T17:18:06 CEST" duration-ms="1200" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:38:33 CEST" name="setUp" finished-at="2022-06-13T19:38:34 CEST" duration-ms="1374" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyLinksOfpage()[pri:3, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:18:06 CEST" name="verifyLinksOfpage" finished-at="2022-06-03T17:18:11 CEST" duration-ms="4969" status="PASS">
+        <test-method signature="verifyLinksOfpage()[pri:3, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:38:34 CEST" name="verifyLinksOfpage" finished-at="2022-06-13T19:38:40 CEST" duration-ms="5485" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLinksOfpage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:18:11 CEST" name="tearDown" finished-at="2022-06-03T17:18:11 CEST" duration-ms="263" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:38:40 CEST" name="tearDown" finished-at="2022-06-13T19:38:40 CEST" duration-ms="257" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:18:12 CEST" name="setUp" finished-at="2022-06-03T17:18:13 CEST" duration-ms="1160" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:38:41 CEST" name="setUp" finished-at="2022-06-13T19:38:42 CEST" duration-ms="1291" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyTodosData(java.lang.String)[pri:4, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:18:13 CEST" name="verifyTodosData" data-provider="getTestDataTodos" finished-at="2022-06-03T17:18:13 CEST" duration-ms="443" status="PASS">
+        <test-method signature="verifyTodosData(java.lang.String)[pri:4, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:38:42 CEST" name="verifyTodosData" data-provider="getTestDataTodos" finished-at="2022-06-13T19:38:42 CEST" duration-ms="327" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -58,15 +58,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTodosData -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:18:13 CEST" name="tearDown" finished-at="2022-06-03T17:18:14 CEST" duration-ms="182" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:38:42 CEST" name="tearDown" finished-at="2022-06-13T19:38:42 CEST" duration-ms="143" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:18:14 CEST" name="setUp" finished-at="2022-06-03T17:18:15 CEST" duration-ms="1240" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:38:42 CEST" name="setUp" finished-at="2022-06-13T19:38:44 CEST" duration-ms="1231" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyTodosData(java.lang.String)[pri:4, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:18:15 CEST" name="verifyTodosData" data-provider="getTestDataTodos" finished-at="2022-06-03T17:18:15 CEST" duration-ms="368" status="PASS">
+        <test-method signature="verifyTodosData(java.lang.String)[pri:4, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:38:44 CEST" name="verifyTodosData" data-provider="getTestDataTodos" finished-at="2022-06-13T19:38:44 CEST" duration-ms="309" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -77,15 +77,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTodosData -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:18:15 CEST" name="tearDown" finished-at="2022-06-03T17:18:15 CEST" duration-ms="189" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:38:44 CEST" name="tearDown" finished-at="2022-06-13T19:38:44 CEST" duration-ms="148" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:18:15 CEST" name="setUp" finished-at="2022-06-03T17:18:17 CEST" duration-ms="1233" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:38:44 CEST" name="setUp" finished-at="2022-06-13T19:38:45 CEST" duration-ms="1267" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyClearTodoDataCheckbox(java.lang.String)[pri:5, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:18:17 CEST" name="verifyClearTodoDataCheckbox" data-provider="getTestDataTodos" finished-at="2022-06-03T17:18:37 CEST" duration-ms="20358" status="PASS">
+        <test-method signature="verifyClearTodoDataCheckbox(java.lang.String)[pri:5, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:38:45 CEST" name="verifyClearTodoDataCheckbox" data-provider="getTestDataTodos" finished-at="2022-06-13T19:39:06 CEST" duration-ms="20317" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -96,15 +96,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyClearTodoDataCheckbox -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:18:37 CEST" name="tearDown" finished-at="2022-06-03T17:18:37 CEST" duration-ms="272" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:39:06 CEST" name="tearDown" finished-at="2022-06-13T19:39:06 CEST" duration-ms="281" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:18:37 CEST" name="setUp" finished-at="2022-06-03T17:18:38 CEST" duration-ms="1259" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:39:06 CEST" name="setUp" finished-at="2022-06-13T19:39:07 CEST" duration-ms="1321" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyClearTodoDataCheckbox(java.lang.String)[pri:5, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:18:38 CEST" name="verifyClearTodoDataCheckbox" data-provider="getTestDataTodos" finished-at="2022-06-03T17:18:59 CEST" duration-ms="20340" status="PASS">
+        <test-method signature="verifyClearTodoDataCheckbox(java.lang.String)[pri:5, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:39:07 CEST" name="verifyClearTodoDataCheckbox" data-provider="getTestDataTodos" finished-at="2022-06-13T19:39:28 CEST" duration-ms="20489" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -115,15 +115,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyClearTodoDataCheckbox -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:18:59 CEST" name="tearDown" finished-at="2022-06-03T17:18:59 CEST" duration-ms="222" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:39:28 CEST" name="tearDown" finished-at="2022-06-13T19:39:28 CEST" duration-ms="200" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:18:59 CEST" name="setUp" finished-at="2022-06-03T17:19:00 CEST" duration-ms="1252" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:39:28 CEST" name="setUp" finished-at="2022-06-13T19:39:30 CEST" duration-ms="2027" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyClearTodosCross(java.lang.String)[pri:6, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:19:00 CEST" name="verifyClearTodosCross" data-provider="getTestDataTodos" finished-at="2022-06-03T17:19:21 CEST" duration-ms="20515" status="PASS">
+        <test-method signature="verifyClearTodosCross(java.lang.String)[pri:6, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:39:30 CEST" name="verifyClearTodosCross" data-provider="getTestDataTodos" finished-at="2022-06-13T19:39:50 CEST" duration-ms="20330" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -131,18 +131,93 @@
               </value>
             </param>
           </params>
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: chrome=102.0.5005.63)
+Build info: version: '4.2.1', revision: 'ac4d0fdd4a'
+System info: host: 'DESKTOP-QQLD7O3', ip: '192.168.178.24', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [39edaa8f1ce94c5554fe10b5aa9faacb, clickElement {id=2bcae146-c38e-4349-9db5-89945ffcc563}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.63, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\Dipalee\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:58970}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58970/devtoo..., se:cdpVersion: 102.0.5005.63, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (39edaa8f1ce94c5554fe10b5aa9faacb)] -> xpath: //button[@class = 'destroy']]
+Session ID: 39edaa8f1ce94c5554fe10b5aa9faacb]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=102.0.5005.63)
+Build info: version: '4.2.1', revision: 'ac4d0fdd4a'
+System info: host: 'DESKTOP-QQLD7O3', ip: '192.168.178.24', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [39edaa8f1ce94c5554fe10b5aa9faacb, clickElement {id=2bcae146-c38e-4349-9db5-89945ffcc563}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.63, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\Dipalee\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:58970}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58970/devtoo..., se:cdpVersion: 102.0.5005.63, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (39edaa8f1ce94c5554fe10b5aa9faacb)] -> xpath: //button[@class = 'destroy']]
+Session ID: 39edaa8f1ce94c5554fe10b5aa9faacb
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:551)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:78)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+at jdk.proxy2/jdk.proxy2.$Proxy16.click(Unknown Source)
+at com.qa.wk.actions.TodosPageAction.clearTodosUsingCross(TodosPageAction.java:78)
+at com.qa.wk.testcases.TodosPageTestCases.verifyClearTodosCross(TodosPageTestCases.java:57)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyClearTodosCross -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:19:21 CEST" name="tearDown" finished-at="2022-06-03T17:19:21 CEST" duration-ms="250" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:39:50 CEST" name="tearDown" finished-at="2022-06-13T19:39:51 CEST" duration-ms="236" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:19:21 CEST" name="setUp" finished-at="2022-06-03T17:19:22 CEST" duration-ms="1289" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:39:51 CEST" name="setUp" finished-at="2022-06-13T19:39:52 CEST" duration-ms="1329" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyClearTodosCross(java.lang.String)[pri:6, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:19:22 CEST" name="verifyClearTodosCross" data-provider="getTestDataTodos" finished-at="2022-06-03T17:19:43 CEST" duration-ms="20439" status="PASS">
+        <test-method signature="verifyClearTodosCross(java.lang.String)[pri:6, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:39:52 CEST" name="verifyClearTodosCross" data-provider="getTestDataTodos" finished-at="2022-06-13T19:40:12 CEST" duration-ms="20358" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -153,7 +228,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyClearTodosCross -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-03T17:19:43 CEST" name="tearDown" finished-at="2022-06-03T17:19:43 CEST" duration-ms="247" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.wk.testcases.TodosPageTestCases@459e9125]" started-at="2022-06-13T19:40:12 CEST" name="tearDown" finished-at="2022-06-13T19:40:13 CEST" duration-ms="263" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

@@ -44,12 +44,11 @@ public class Controller {
 			System.out.println("no browser found");
 		}
 
+		driver.get(prop.getProperty("URL"));
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(TestUtilities.IMPLICIT_WAIT);
 		driver.manage().timeouts().pageLoadTimeout(TestUtilities.PAGELOAD_TIME);
-		driver.get(prop.getProperty("URL"));
-
 	}
 
 }
